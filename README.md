@@ -10,6 +10,25 @@
   <a href="https://hexwave.vercel.app/specs">Specs</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/chadlittlepage/hexwave/actions/workflows/ci.yml"><img src="https://github.com/chadlittlepage/hexwave/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI" /></a>
+  <a href="https://github.com/chadlittlepage/hexwave/actions/workflows/cd.yml"><img src="https://github.com/chadlittlepage/hexwave/actions/workflows/cd.yml/badge.svg?branch=main" alt="CD - Deploy" /></a>
+  <img src="https://img.shields.io/badge/Production%20Readiness-93%2F100-brightgreen" alt="Production Readiness 93/100" />
+  <img src="https://img.shields.io/badge/Fortune%20500-13%2F13-brightgreen" alt="Fortune 500 benchmarks 13/13" />
+  <img src="https://img.shields.io/badge/Coverage-80%25%2B-brightgreen" alt="Test coverage 80%+" />
+</p>
+
+<p align="center">
+  <a href="https://react.dev"><img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white" alt="React 19" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white" alt="TypeScript 5.9" /></a>
+  <a href="https://vitejs.dev"><img src="https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white" alt="Vite 7" /></a>
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS 4" /></a>
+  <a href="https://supabase.com"><img src="https://img.shields.io/badge/Supabase-Postgres-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" /></a>
+  <a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-Payments-635BFF?logo=stripe&logoColor=white" alt="Stripe" /></a>
+  <a href="https://sentry.io"><img src="https://img.shields.io/badge/Sentry-Monitoring-362D59?logo=sentry&logoColor=white" alt="Sentry" /></a>
+  <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-Deployed-000000?logo=vercel&logoColor=white" alt="Vercel" /></a>
+</p>
+
 A turnkey, production-grade music curation platform. Artists submit tracks for free, expert curators (1,000+ listener minimum) review and provide feedback, and the community votes to decide what charts. 100% original code, modern stack, hardened security, ready for scale or acquisition.
 
 ---
