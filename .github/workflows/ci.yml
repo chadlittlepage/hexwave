@@ -138,6 +138,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     needs: [build]
+    # Quarantined: Supabase auth call from the in-CI dev server has been
+    # failing ("Failed to fetch" on login) since April. Job still runs
+    # and reports, but no longer gates CI until the env-passthrough /
+    # test-account issue is fixed.
+    continue-on-error: true
 
     steps:
       - name: Checkout
